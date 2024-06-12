@@ -1,4 +1,4 @@
-# Efficiency of Privacy Attacks in Federated Learning (EPAFL)
+# Efficient Privacy Attacks in Federated Learning (EPAFL)
 
 If you find this work useful in your research, please cite the following paper:
 
