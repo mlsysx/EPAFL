@@ -36,6 +36,9 @@ else:
     wait += 1
 
 ```
+
+# Code
+Run this [Colab Notebook](https://colab.research.google.com/drive/13VTgN1I1HYI_en5bbIJKLftXQqZg3LU6?usp=sharing) to execute the experiments in the paper.
  
 # Citing
 If you find this work useful in your research, please cite the following paper:
